@@ -1,2 +1,3 @@
 *.pt
 *.jpg
+__pycache__/
